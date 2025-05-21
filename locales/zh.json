@@ -1,9 +1,9 @@
 {
   "Hero": {
-    "title1": "快速构建",
-    "title2": "落地页",
+    "title1": "李太白",
+    "title2": "博客",
     "title3": "",
-    "description": "一个免费、开源且强大的落地页模板，适用于各种项目，让你在一个小时内搭建落地页。"
+    "description": "全栈独立开发者，专注于百度SEO，谷歌SEO"
   },
   "SocialProof": {
     "maker": "制作者快速开发"
@@ -42,6 +42,6 @@
     "description6": "！"
   },
   "CTAButton": {
-    "title": "获取模板"
+    "title": "Github"
   }
 }

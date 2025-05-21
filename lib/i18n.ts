@@ -10,7 +10,8 @@ export const localeNames: any = {
   es: "🇪🇸 Español",
   ru: "🇷🇺 Русский",
 };
-export const defaultLocale = "en";
+// export const defaultLocale = "en";
+export const defaultLocale = "zh-CN";
 
 // If you wish to automatically redirect users to a URL that matches their browser's language setting,
 // you can use the `getLocale` to get the browser's language.
